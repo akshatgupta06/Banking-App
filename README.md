@@ -20,5 +20,5 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/akshatgupta06/bankist.git
-   cd bankist
+   https://github.com/akshatgupta06/Banking-App/blob/main/README.md
+   cd Banking-App
